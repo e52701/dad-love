@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=led
+Comment=Python Program
+Exec=python /home/pi/led.py
+Icon=/home/pi/python_games/4row_black.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
